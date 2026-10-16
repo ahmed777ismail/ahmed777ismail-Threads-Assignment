@@ -1,0 +1,102 @@
+[
+  {
+    "id": "85c6bcad-9d1d-4da8-a0df-fec4c874aaec",
+    "orderId": 11,
+    "to": "ahmed.ali@example.com",
+    "subject": "Order #11",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:43.9467205+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "7c83cfe5-c70e-4375-8296-26c4af6e1780",
+    "orderId": 6,
+    "to": "nour.khaled@example.com",
+    "subject": "Order #6",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:44.3542329+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "b1a25624-2ac5-46d5-b648-4d9f25e0c239",
+    "orderId": 19,
+    "to": "hassan.tarek@example.com",
+    "subject": "Order #19",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:44.4306105+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "8a06ca54-c8bb-46ad-a637-ecfd854d9e28",
+    "orderId": 2,
+    "to": "sara.mohamed@example.com",
+    "subject": "Order #2",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:44.5252466+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "98d85005-e3f9-40e0-8c47-fccc9500ecab",
+    "orderId": 14,
+    "to": "youssef.adel@example.com",
+    "subject": "Order #14",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:46.0472245+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "90392778-b1b2-43f6-9ee6-9e3a424eb47c",
+    "orderId": 7,
+    "to": "karim.samir@example.com",
+    "subject": "Order #7",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:46.6283966+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "f2fd8ff9-3e57-4c37-bfe6-4d23ba686d25",
+    "orderId": 1,
+    "to": "ahmed.ali@example.com",
+    "subject": "Order #1",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:46.6599165+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "03346d8b-6716-4b14-8aab-053221407b60",
+    "orderId": 20,
+    "to": "dina.fathy@example.com",
+    "subject": "Order #20",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:46.7698929+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "9fa61e66-acde-49c8-a3f5-e7ae514200be",
+    "orderId": 16,
+    "to": "nour.khaled@example.com",
+    "subject": "Order #16",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:46.8498307+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "6e2e63f6-6660-45ec-89ef-2b9a122c0a92",
+    "orderId": 3,
+    "to": "omar.hassan@example.com",
+    "subject": "Order #3",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:12:49.8707431+03:00",
+    "attempts": 3,
+    "lastError": null
+  }
+]
