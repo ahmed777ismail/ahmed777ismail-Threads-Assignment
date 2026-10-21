@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ec889396-c7a5-40f8-b623-19fbb7cd4423",
+    "orderId": 17,
+    "to": "karim.samir@example.com",
+    "subject": "Order #17",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:19.6859486+03:00",
+    "attempts": 4,
+    "lastError": "SMTP provider unavailable"
+  }
+]

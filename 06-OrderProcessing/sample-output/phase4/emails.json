@@ -1,0 +1,302 @@
+[
+  {
+    "id": "33d86d5f-a1a9-44e7-9611-86b3b1318968",
+    "orderId": 1004,
+    "to": "test1004@example.com",
+    "subject": "Order #1004",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:32.8808659+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "2d0f2a17-14f6-45dd-b160-82e87bbc0175",
+    "orderId": 1002,
+    "to": "test1002@example.com",
+    "subject": "Order #1002",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:32.8890485+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "046d8a92-d83c-49a8-b657-7afa09cce835",
+    "orderId": 1003,
+    "to": "test1003@example.com",
+    "subject": "Order #1003",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:32.896093+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "bce7f283-3f02-485e-94b4-f2f7d992d4be",
+    "orderId": 1001,
+    "to": "test1001@example.com",
+    "subject": "Order #1001",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:32.9043722+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "1671e7c0-6184-4773-96aa-1e239911955e",
+    "orderId": 1005,
+    "to": "test1005@example.com",
+    "subject": "Order #1005",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:33.9039664+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "d34387b8-cd89-40dc-a486-f544efa8a99d",
+    "orderId": 1006,
+    "to": "test1006@example.com",
+    "subject": "Order #1006",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:33.9194334+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "a03d3f06-058a-467c-b3b7-499cc46832a9",
+    "orderId": 1007,
+    "to": "test1007@example.com",
+    "subject": "Order #1007",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:33.9311096+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "0431cdec-930c-477b-9f07-c7c169e8ada2",
+    "orderId": 1008,
+    "to": "test1008@example.com",
+    "subject": "Order #1008",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:33.9405198+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "14ea5cc0-b0e3-47bc-81e7-5f60282b5d0a",
+    "orderId": 1009,
+    "to": "test1009@example.com",
+    "subject": "Order #1009",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:34.9213276+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "19ed3aaa-899b-483b-98fc-50a123f1e6bd",
+    "orderId": 1010,
+    "to": "test1010@example.com",
+    "subject": "Order #1010",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:34.9366299+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "7532c4dc-afa3-4081-9ed9-2ff342730a68",
+    "orderId": 1011,
+    "to": "test1011@example.com",
+    "subject": "Order #1011",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:34.9526619+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "d65901e9-5aed-4525-884b-86f2834b4bd5",
+    "orderId": 1012,
+    "to": "test1012@example.com",
+    "subject": "Order #1012",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:34.9681954+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "1a305c41-c847-458b-a714-63d60647bb3e",
+    "orderId": 1015,
+    "to": "test1015@example.com",
+    "subject": "Order #1015",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:35.9552357+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "3a6101b6-5c28-4b6d-aad1-4b47ecb90f00",
+    "orderId": 1013,
+    "to": "test1013@example.com",
+    "subject": "Order #1013",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:35.9651757+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "5040cb78-f67c-4ddd-895b-bd34cc4b1736",
+    "orderId": 1014,
+    "to": "test1014@example.com",
+    "subject": "Order #1014",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:35.9724815+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "6ec82425-cb63-4805-bb47-5dbc41fa976a",
+    "orderId": 1016,
+    "to": "test1016@example.com",
+    "subject": "Order #1016",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:36.0031034+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "41ec1e05-1ac5-4185-8f00-049ea863b5a8",
+    "orderId": 1017,
+    "to": "test1017@example.com",
+    "subject": "Order #1017",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:36.9722465+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "798a79a5-aad0-4b4d-9359-72ff0b032ea4",
+    "orderId": 1018,
+    "to": "test1018@example.com",
+    "subject": "Order #1018",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:36.9866146+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "6c907411-f85a-4a68-a686-9803c0c864ba",
+    "orderId": 1019,
+    "to": "test1019@example.com",
+    "subject": "Order #1019",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:37.0046572+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "6ed5e4ae-e9eb-47de-9802-463980a2f0b3",
+    "orderId": 1020,
+    "to": "test1020@example.com",
+    "subject": "Order #1020",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:37.0184072+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "8c298667-6907-45ee-ab67-d3a6212eb85d",
+    "orderId": 1022,
+    "to": "test1022@example.com",
+    "subject": "Order #1022",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:38.0183298+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "55ed337b-7c33-4d52-94b9-1fcf6ade7952",
+    "orderId": 1021,
+    "to": "test1021@example.com",
+    "subject": "Order #1021",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:38.0281224+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "fca9fefc-441f-40c8-afae-eac6a6e00938",
+    "orderId": 1023,
+    "to": "test1023@example.com",
+    "subject": "Order #1023",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:38.03602+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "c6a8dcd3-4b77-401f-b178-f435ef0489f3",
+    "orderId": 1024,
+    "to": "test1024@example.com",
+    "subject": "Order #1024",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:38.0487852+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "27bb3d86-4c73-4352-bfe9-b7054e4e5b28",
+    "orderId": 1025,
+    "to": "test1025@example.com",
+    "subject": "Order #1025",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:39.0364617+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "ab9e035b-800b-402c-b88a-8d7523ff61a9",
+    "orderId": 1026,
+    "to": "test1026@example.com",
+    "subject": "Order #1026",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:39.0501971+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "1c658814-d630-4638-a6e3-56e55aba2c83",
+    "orderId": 1027,
+    "to": "test1027@example.com",
+    "subject": "Order #1027",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:39.0658186+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "26066ba2-78d4-4dfb-9c9f-28846b87e312",
+    "orderId": 1028,
+    "to": "test1028@example.com",
+    "subject": "Order #1028",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:39.0755166+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "a0116bc1-0e3a-41c0-ad0e-6f20f4b383f0",
+    "orderId": 1030,
+    "to": "test1030@example.com",
+    "subject": "Order #1030",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:40.0711521+03:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "2a15027e-f808-4d9c-a9ea-baf3dc78ca39",
+    "orderId": 1029,
+    "to": "test1029@example.com",
+    "subject": "Order #1029",
+    "body": "Thank you",
+    "sentAt": "2026-10-16T17:15:40.0804453+03:00",
+    "attempts": 1,
+    "lastError": null
+  }
+]

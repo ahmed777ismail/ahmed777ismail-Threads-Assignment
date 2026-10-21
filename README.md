@@ -1,2 +1,4 @@
-# ahmed777ismail-Threads-Assignment
-Assignment repo for assignment/1-8 (Threads Assignment)
+# Threads Assignment
+
+Student: Ahmed Ismail
+Assignment ID: assignment/1-8 [S1-A8]
